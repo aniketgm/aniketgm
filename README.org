@@ -21,7 +21,3 @@
   though I have done lots of programming containing pointer. It's debatable.
 - I'm also learning devops concepts so that I can help manage pipelines for organizations.
 
-<!---
-aniketgm/aniketgm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
