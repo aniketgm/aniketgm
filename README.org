@@ -14,7 +14,7 @@
  +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 #+end_src
 
-- Hello👋, I'm Aniket Meshram @aniketgm. (The title above is read as Enigme, from Enigma)
+- Hello👋, I'm Aniket Meshram @aniketgm. (The title above is read as Enig me, as like, Enigma)
 - I love 🧡 making scripts to easy things as much as possible. I hate doing repeated tasks (well who doesn't
   but the fact is people still do it. And they seldom do anything to make things simpler.
 - I'm currently learning Python🐍. Coming from a C++ background, I really hate the concept of pointer, even
