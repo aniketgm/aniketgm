@@ -14,10 +14,14 @@
  +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 #+end_src
 
-- Hello👋, I'm Aniket Meshram @aniketgm. (The title above is read as Enig me, as like, Enigma)
-- I love 🧡 making scripts to easy things as much as possible. I hate doing repeated tasks (well who doesn't
-  but the fact is people still do it. And they seldom do anything to make things simpler.
-- I'm currently learning Python🐍. Coming from a C++ background, I really hate the concept of pointer, even
-  though I have done lots of programming containing pointer. It's debatable.
-- I'm also learning devops concepts so that I can help manage pipelines for organizations.
+* About me
+1) Hello👋, I'm Aniket Meshram @aniketgm. (The title above is read as Enig me, similar to the word, Enigma)
+2) I love 🧡 making scripts/apps to avoid monotonous tasks. I hate doing repeated tasks (well who doesn't
+   but the sad fact is people and organizations still do it. And they seldom do anything about it.
+3) I love 🧡 listening to music ♫ and podcasts. My music genres depends on the mood I'm in, at that particular time. For e.g., When I'm happy, I'll be listening to pop/soft-rocks, etc.
+4) I listen to a bunch of Podcasts, like [[https://www.everyday-buddhism.com][Everyday-Buddhism]], [[https://www.npr.org/podcasts/510298/ted-radio-hour][Ted Radio Hour]], [[http://impacttheory.com][Impact-Theory]], [[https://www.jeffsanders.com/podcast/][5 AM Miracle]], [[https://www.theminimalists.com/podcast/][TheMinimalists]], and much more...
+* About what I do
+- I am working as C++ Software Developer at HCL Tech.
+- However, I'm currently learning [[https://www.python.org][Python]]🐍 and also it's Web frameworks - [[https://flask.palletsprojects.com/en/2.0.x/][Flask]] and [[https://www.djangoproject.com][Django]].
+- I'm also learning about building CI/CD pipelines using Jenkins, Docker, Ansible and Kubernetes.
 
