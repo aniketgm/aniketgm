@@ -19,7 +19,7 @@
 - I love 🧡 making scripts/apps to avoid monotonous tasks and try as much as I can to automate stuff. I hate doing repeated tasks (well who doesn't), however the sad fact is people and organizations still do it. And they seldom do anything about it.
 - I love 🧡 listening to Music 🎶 and Podcasts 🎙🎧. My music genres depends on the mood I'm in, at that particular time. For e.g., When I'm happy, I'll be listening to pop/soft-rocks, etc.
 - I listen to a bunch of Podcasts, like [[https://www.everyday-buddhism.com][Everyday-Buddhism]], [[https://www.npr.org/podcasts/510298/ted-radio-hour][Ted Radio Hour]], [[http://impacttheory.com][Impact-Theory]], [[https://www.jeffsanders.com/podcast/][5 AM Miracle]], [[https://www.theminimalists.com/podcast/][TheMinimalists]], and much more...
-* About what I do
+* What I do
 - I am currently working as C++ Software Developer at HCL Tech.
 - However, I'm currently learning [[https://www.python.org][Python]]🐍 and also it's Web frameworks - [[https://flask.palletsprojects.com/en/2.0.x/][Flask]] and [[https://www.djangoproject.com][Django]].
 - I'm also learning about building CI/CD pipelines using Jenkins, Docker, Ansible and Kubernetes.
