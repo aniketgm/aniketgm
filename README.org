@@ -18,7 +18,7 @@
 - Hello👋 Visitor, I'm Aniket Meshram.
 - I'm currently living and working in India.
 - I love 🧡 making scripts/apps to automate stuff, because I hate doing repetitive tasks.
-- I love 🧡 listening to Music 🎶 and Podcasts 🎙🎧.
+- I love 🧡 listening to Music 🎶 and Podcasts 🎙🎧 and watch Anime (๑⚈ ․̫ ⚈๑).
 - I listen to a bunch of Podcasts, like [[https://www.everyday-buddhism.com][Everyday-Buddhism]], [[https://www.npr.org/podcasts/510298/ted-radio-hour][Ted Radio Hour]], [[http://impacttheory.com][Impact-Theory]], [[https://www.jeffsanders.com/podcast/][5 AM Miracle]], [[https://www.theminimalists.com/podcast/][TheMinimalists]], and much more...
 * What I do
 - I was working as C++ Software Developer at HCL Tech.
