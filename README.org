@@ -24,4 +24,4 @@
 - I was working as C++ Software Developer at HCL Tech.
 - Although, I'm also currently learning [[https://www.python.org][Python]]🐍 and it's Web frameworks - [[https://flask.palletsprojects.com/en/2.0.x/][Flask]] and [[https://www.djangoproject.com][Django]].
 - I'm also learning about building CI/CD pipelines using Jenkins, Docker, Ansible and Kubernetes.
-
+- I recently started using [[https://www.gnu.org/software/emacs/][Emacs], although, at first I thought it was just a text editor. But after watching videos from [[https://www.youtube.com/c/SystemCrafters][SystemCrafters]], I got to know that it could so much more, and Boy Oh Boy!, what a software. You can tons of things in there, like managing tasks, using as an IDE, and even gaming!, and so apart from my office work I keep exploring Emacs a bit more.
