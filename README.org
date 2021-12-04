@@ -21,7 +21,7 @@
 - I love 🧡 listening to Music 🎶 and Podcasts 🎙🎧 and watch Anime (๑⚈ ․̫ ⚈๑).
 - I listen to a bunch of Podcasts, like [[https://www.everyday-buddhism.com][Everyday-Buddhism]], [[https://www.npr.org/podcasts/510298/ted-radio-hour][Ted Radio Hour]], [[http://impacttheory.com][Impact-Theory]], [[https://www.jeffsanders.com/podcast/][5 AM Miracle]], [[https://www.theminimalists.com/podcast/][TheMinimalists]], and much more...
 * What I do
-- I was working as C++ Software Developer at HCL Tech.
-- Although, I'm also currently learning [[https://www.python.org][Python]]🐍 and it's Web frameworks - [[https://flask.palletsprojects.com/en/2.0.x/][Flask]] and [[https://www.djangoproject.com][Django]].
+- I worked as C++ Software Developer at HCL Tech.
+- Right now, I'm learning [[https://www.python.org][Python]]🐍 and it's Web frameworks - [[https://flask.palletsprojects.com/en/2.0.x/][Flask]] and [[https://www.djangoproject.com][Django]].
 - I'm also learning about building CI/CD pipelines using Jenkins, Docker, Ansible and Kubernetes.
 - I recently started using [[https://www.gnu.org/software/emacs/][Emacs]], although, at first I thought it was just a text editor. But after watching videos from [[https://www.youtube.com/c/SystemCrafters][SystemCrafters]] et. el, I got to know that it could do so much more, and Boy Oh Boy!, what a software. You can do tons of things in there, like managing tasks, using as an IDE, and even gaming!, and so apart from my office work I keep exploring Emacs a bit more.
