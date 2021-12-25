@@ -12,19 +12,6 @@
    +  \__\/     \__\/  \_\/      \_\/  \_\/  \____________\/  \__\/        \__\/  \________\/  +
   +                                                                                           +
  +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-              __________________ 
-          /\  \   __           /  /\    /\           Author      : Aniket Meshram [AniGMe]
-         /  \  \  \         __/  /  \  /  \          Description : This file contains all my vimrc configurations.
-        /    \  \       _____   /    \/    \                       Vim-Plug is used for managing plugins.
-       /  /\  \  \     /    /  /            \                      NerdTree is used for file navigation. 
-      /        \  \        /  /      \/      \
-     /          \  \      /  /                \      Github Repo : https://github.com/aniketgm/dotfiles
-    /            \  \    /  /                  \
-   /              \  \  /  /                    \
-  /__            __\  \/  /__                  __\
-
-  
 #+end_src
 
 * About me
