@@ -15,7 +15,7 @@
 #+end_src
 
 * About me
-- Hello👋 World!, I'm Aniket Meshram.
+- Hello👋 Visitor!, I'm Aniket Meshram.
 - I'm currently living and working in India.
 - I love 🧡 making scripts/apps to automate stuff, because I don't like doing repetitive tasks.
 - I love 🧡 listening to Music 🎶 and Podcasts 🎙🎧 and watch Anime (๑⚈ ․̫ ⚈๑).
