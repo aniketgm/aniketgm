@@ -21,14 +21,14 @@ Hello👋, what all things you can find here, here's a short list:
   - Database connector tui app [In progress..]
   - A signup/login [app](https://github.com/aniketgm/LoginApp-DRP) written using Django, React and Postgresql DB
   - A notes [app](https://github.com/aniketgm/NotesApp-DjangoReact) again written using Django, React and Sqlite DB
-  - A signup/login [app](https://github.com/aniketgm/devops-flask-mongodb) written using Flask and MongoDB, frontend is plian HTML, CSS, JS and Ajax.
+  - A signup/login [app](https://github.com/aniketgm/devops-flask-mongodb) written using Flask and MongoDB, frontend is in plain HTML, CSS, JS and Ajax.
   - My [dotfiles](https://github.com/aniketgm/Dotfiles) for your reference.
 
 Besides, these please feel free to browse other repos.
 
 [![AniketGM's Github Stats](https://github-readme-stats.vercel.app/api?username=aniketgm&count_private=true&show_icons=true&theme=radical)](https://github.com/aniketgm)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketgm)](https://github.com/aniketgm/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketgm&layout=compact)](https://github.com/aniketgm/github-readme-stats)
 
 <!--
 # What I do
