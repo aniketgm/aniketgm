@@ -6,6 +6,10 @@
   __/_/  |_/_/ /_//_/  /_/|_| \___/\__/ \____/  /_/  /_/
 ```
 
+[![AniketGM's Github Stats](https://github-readme-stats.vercel.app/api?username=aniketgm&count_private=true&show_icons=true&theme=radical)](https://github.com/aniketgm)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketgm)](https://github.com/aniketgm/github-readme-stats)
+
 # Overview
 
 Hello👋, here's a short list of repos you can find here:
@@ -16,11 +20,7 @@ Hello👋, here's a short list of repos you can find here:
   - A signup/login [app](https://github.com/aniketgm/devops-flask-mongodb) written using Flask and MongoDB, frontend is in plain HTML, CSS, JS and Ajax.
   - My [dotfiles](https://github.com/aniketgm/Dotfiles) for your reference.
 
-Besides, these please feel free to browse other repos.
-
-[![AniketGM's Github Stats](https://github-readme-stats.vercel.app/api?username=aniketgm&count_private=true&show_icons=true&theme=radical)](https://github.com/aniketgm)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketgm&layout=compact)](https://github.com/aniketgm/github-readme-stats)
+Besides these, please feel free to browse other repos.
 
 <!--
 ``` 
