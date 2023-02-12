@@ -20,7 +20,7 @@ Besides these, please feel free to browse other repos.
 
 [![AniketGM's Github Stats](https://github-readme-stats.vercel.app/api?username=aniketgm&count_private=true&show_icons=true&theme=radical)](https://github.com/aniketgm)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketgm)](https://github.com/aniketgm/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketgm)](https://github.com/aniketgm)
 
 <!--
 ``` 
