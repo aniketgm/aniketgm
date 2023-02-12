@@ -18,7 +18,7 @@
 
 Hello👋, what all things you can find here, here's a short list:
 
-  - Database connector tui app [In progress..]
+  - Database connector tui app written in Golang (In progress..)
   - A signup/login [app](https://github.com/aniketgm/LoginApp-DRP) written using Django, React and Postgresql DB
   - A notes [app](https://github.com/aniketgm/NotesApp-DjangoReact) again written using Django, React and Sqlite DB
   - A signup/login [app](https://github.com/aniketgm/devops-flask-mongodb) written using Flask and MongoDB, frontend is in plain HTML, CSS, JS and Ajax.
