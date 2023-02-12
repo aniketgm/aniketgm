@@ -8,7 +8,7 @@
 
 # Overview
 
-Hello👋, what all things you can find here, here's a short list:
+Hello👋, here's a short list of repos you can find here:
 
   - Database connector tui app written in Golang (In progress..)
   - A signup/login [app](https://github.com/aniketgm/LoginApp-DRP) written using Django, React and Postgresql DB
