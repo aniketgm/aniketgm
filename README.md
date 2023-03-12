@@ -6,7 +6,7 @@
   __/_/  |_/_/ /_//_/  /_/|_| \___/\__/ \____/  /_/  /_/
 ```
 
-# 🏮 Overview
+# 🔣 Overview
 
 Hello👋, here's a short list of repos you can find here:
 
@@ -17,6 +17,10 @@ Hello👋, here's a short list of repos you can find here:
   - My [dotfiles](https://github.com/aniketgm/Dotfiles) for your reference.
 
 Besides these, please feel free to browse other repos.
+
+# 🛠 Programming Languages and Tools
+
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
 
 [![AniketGM's Github Stats](https://github-readme-stats.vercel.app/api?username=aniketgm&count_private=true&show_icons=true&theme=radical)](https://github.com/aniketgm)
 
