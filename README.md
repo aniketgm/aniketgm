@@ -6,7 +6,7 @@
   __/_/  |_/_/ /_//_/  /_/|_| \___/\__/ \____/  /_/  /_/
 ```
 
-# ❄️ Overview
+# 🏮 Overview
 
 Hello👋, here's a short list of repos you can find here:
 
