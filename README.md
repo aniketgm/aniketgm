@@ -1,11 +1,15 @@
 ```
-  _________       ___________      ___________________  ___
-  _____    |_________(_)__  /________  /__  ____/__   |/  /
-  ____  /| |_  __ \_  /__  //_/  _ \  __/  / __ __  /|_/ /
-  ___  ___ |  / / /  / _  ,<  /  __/ /_ / /_/ / _  /  / /
-  __/_/  |_/_/ /_//_/  /_/|_| \___/\__/ \____/  /_/  /_/
+              __________________ 
+          /\  \   __           /  /\    /\           Author      : Aniket Meshram [AniGMe]
+         /  \  \  \         __/  /  \  /  \          Overview    : Develop applications using Python
+        /    \  \       _____   /    \/    \                       Loves Anime, favourite so far: One Piece
+       /  /\  \  \     /    /  /            \                      Loves Music, mostly intrumental.
+      /        \  \        /  /      \/      \
+     /          \  \      /  /                \                    "Know Thyself"
+    /            \  \    /  /                  \                                 ~ Buddha
+   /              \  \  /  /                    \
+  /__            __\  \/  /__                  __\
 ```
-#
 
 ### 🔣 Overview
 
@@ -18,8 +22,6 @@ Hello👋, here's a short list of repos you can find here:
   - My [dotfiles](https://github.com/aniketgm/dotfiles) for your reference.
 
 Besides these, please feel free to browse other repos.
-
-#
 
 ### 🛠 Technology Stack
 
