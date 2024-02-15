@@ -25,6 +25,11 @@ Besides these, please feel free to browse other repos.
 
 ### 🛠 Technology Stack
 
+<style>
+td, th {
+    border: none !important;
+}
+</style>
 <table>
     <tr>
         <td>Programming Languages:</td>
