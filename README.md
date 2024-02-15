@@ -1,19 +1,19 @@
 ```
               __________________ 
-          /\  \   __           /  /\    /\           Author      : Aniket Meshram [AniGMe]
-         /  \  \  \         __/  /  \  /  \          Overview    : Develop applications using Python, Go, JS
-        /    \  \       _____   /    \/    \                       Design and develop tools for DevOps
-       /  /\  \  \     /    /  /            \                      Loves Anime, favourite so far: One Piece
-      /        \  \        /  /      \/      \                     Loves Music, mostly intrumental.
-     /          \  \      /  /                \                    "Know Thyself"
-    /            \  \    /  /                  \                                 ~ Buddha
-   /              \  \  /  /                    \
-  /__            __\  \/  /__                  __\
+          /\  \   __           /  /\    /\           Who am I   : Aniket Meshram [AniGMe]
+         /  \  \  \         __/  /  \  /  \          What I do  : Develop applications using Python, Go, JS
+        /    \  \       _____   /    \/    \                      Design and develop tools for DevOps
+       /  /\  \  \     /    /  /            \                     Loves Anime, favourite so far: One Piece
+      /        \  \        /  /      \/      \                    Loves Music, mostly intrumental.
+     /          \  \      /  /                \
+    /            \  \    /  /                  \                  "Be a lamp unto yourself.
+   /              \  \  /  /                    \                  Work out your liberation with diligence."
+  /__            __\  \/  /__                  __\                                                  ~ Buddha
 ```
 #
 ### 🔣 Overview
 
-Hello👋, here's a short list of repos you can find here:
+**Hello👋, here's a short list of repos you can find here:**
 
   - Database connector tui app written in Golang (In progress..)
   - A signup/login [app](https://github.com/aniketgm/LoginApp-DRP) written using Django, React and Postgresql DB
