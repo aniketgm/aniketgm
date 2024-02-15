@@ -80,8 +80,6 @@ Besides these, please feel free to browse other repos.
         </td>
     </tr>
 </table>
-<br />
-<br />
 
 #
 
