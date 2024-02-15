@@ -10,7 +10,7 @@
    /              \  \  /  /                    \
   /__            __\  \/  /__                  __\
 ```
-
+#
 ### 🔣 Overview
 
 Hello👋, here's a short list of repos you can find here:
@@ -23,6 +23,7 @@ Hello👋, here's a short list of repos you can find here:
 
 Besides these, please feel free to browse other repos.
 
+#
 ### 🛠 Technology Stack
 
 <table>
@@ -82,7 +83,6 @@ Besides these, please feel free to browse other repos.
 </table>
 
 #
-
 ### 📊 Stats
 
 [![AniketGM's Github Stats](https://github-readme-stats.vercel.app/api?username=aniketgm&count_private=true&show_icons=true&theme=radical)](https://github.com/aniketgm)
