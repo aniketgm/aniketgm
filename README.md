@@ -25,12 +25,7 @@ Besides these, please feel free to browse other repos.
 
 ### 🛠 Technology Stack
 
-<style>
-td, th {
-    border: none !important;
-}
-</style>
-<table>
+<table style="border: none !important;">
     <tr>
         <td>Programming Languages:</td>
         <td>
