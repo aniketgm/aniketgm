@@ -1,10 +1,10 @@
 ```
               __________________ 
           /\  \   __           /  /\    /\           Author      : Aniket Meshram [AniGMe]
-         /  \  \  \         __/  /  \  /  \          Overview    : Develop applications using Python
-        /    \  \       _____   /    \/    \                       Loves Anime, favourite so far: One Piece
-       /  /\  \  \     /    /  /            \                      Loves Music, mostly intrumental.
-      /        \  \        /  /      \/      \
+         /  \  \  \         __/  /  \  /  \          Overview    : Develop applications using Python, Go, JS
+        /    \  \       _____   /    \/    \                       Design and develop tools for DevOps
+       /  /\  \  \     /    /  /            \                      Loves Anime, favourite so far: One Piece
+      /        \  \        /  /      \/      \                     Loves Music, mostly intrumental.
      /          \  \      /  /                \                    "Know Thyself"
     /            \  \    /  /                  \                                 ~ Buddha
    /              \  \  /  /                    \
@@ -25,9 +25,14 @@ Besides these, please feel free to browse other repos.
 
 ### 🛠 Technology Stack
 
-**Programming Languages**
-<br />
-<img align="left" alt="Python" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<table>
+    <tr>
+        <td>Programming Languages:</td>
+        <td>
+            <img align="left" alt="Python" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+        </td>
+    <tr>
+</table>
 <img align="left" alt="Go" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 <img align="left" alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Lua" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
