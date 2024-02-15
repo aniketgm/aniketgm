@@ -25,7 +25,7 @@ Besides these, please feel free to browse other repos.
 
 ### 🛠 Technology Stack
 
-<table style="border: none !important;">
+<table style="border:0px solid white; width:100%;">
     <tr>
         <td>Programming Languages:</td>
         <td>
