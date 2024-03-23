@@ -3,8 +3,8 @@
           /\  \   __           /  /\    /\           Who am I   : Aniket Meshram [AniGMe]
          /  \  \  \         __/  /  \  /  \          What I do  : Develop applications using Python, Go, JS
         /    \  \       _____   /    \/    \                      Design and develop tools for DevOps
-       /  /\  \  \     /    /  /            \                     Loves Anime, favourite so far: One Piece
-      /        \  \        /  /      \/      \                    Loves Music, mostly intrumental.
+       /  /\  \  \     /    /  /            \   Other interests : Music, mostly intrumental
+      /        \  \        /  /      \/      \                    Anime, favourite so far: One Piece.
      /          \  \      /  /                \
     /            \  \    /  /                  \                  "Be a lamp unto yourself.
    /              \  \  /  /                    \                  Work out your liberation with diligence."
