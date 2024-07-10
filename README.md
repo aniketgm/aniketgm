@@ -1,9 +1,9 @@
 ```
               __________________ 
           /\  \   __           /  /\    /\           Who am I   : Aniket Meshram [AniGMe]
-         /  \  \  \         __/  /  \  /  \          What I do  : Develop applications using Python, Go, JS
-        /    \  \       _____   /    \/    \                      Design and develop tools for DevOps
-       /  /\  \  \     /    /  /            \   Other interests : Music, mostly intrumental
+         /  \  \  \         __/  /  \  /  \          What I do  : Develop applications using Python, Go and HTML/CSS/JS.
+        /    \  \       _____   /    \/    \                      Design and develop tools for DevOps.
+       /  /\  \  \     /    /  /            \         Interests : Music, mostly intrumental.
       /        \  \        /  /      \/      \                    Anime, favourite so far: One Piece.
      /          \  \      /  /                \
     /            \  \    /  /                  \                  "Be a lamp unto yourself.
